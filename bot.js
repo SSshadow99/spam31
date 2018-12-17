@@ -39,10 +39,10 @@ client.on('message', message => {
 
 
 client.on('ready', async() => {
-var server = "512532251850833934"; 
-var channel = "513312256789053441";
+var server = "519890778823196672"; 
+var channel = "520360761734725632";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBestOmarIsBestOmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBestOmarIsBestOmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBestOmarIsBestOmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBestOmarIsBestOmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBest_OmarIsBestOmarIsBest')
+    client.guilds.get(server).channels.get(channel).send('SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > ')
     },305);
 })
 
